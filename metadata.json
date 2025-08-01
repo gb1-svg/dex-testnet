@@ -1,0 +1,27 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "description": "This is the official token for my awesome project! Join us and build the future.",
+  "image": "ipfs://bafkreigakmmmiij6ql3ivrjfvfa5ykmvstn2ice4uzxsgzjc2ypyuzi24e",
+  "external_url": "https://myawesometoken.com",
+  "social_media": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/myawesometoken"
+    },
+    {
+      "platform": "Discord",
+      "url": "https://discord.gg/myawesometoken"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Project Status",
+      "value": "Launched"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Ethereum"
+    }
+  ]
+}
